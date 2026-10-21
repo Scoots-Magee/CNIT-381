@@ -30,3 +30,7 @@ Docker, run by GitHub Actions on every push, that opens a GitHub issue
 through the API when the plan has errors.
 
 **Repo:** https://github.com/<your-username>/ip-plan-check
+
+## Week 7
+
+added ansible and cisco cml files
